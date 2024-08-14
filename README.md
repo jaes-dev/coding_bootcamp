@@ -15,10 +15,10 @@ Required Programs:
 ### How to run on Windows (via terminal [Ctrl+Shift+~ in VS Code])
 ```
 1. mkdir build && cd build
-2. cmake && make
-3. ./LibraryTool.exe
+2. cmake .. -G "MinGW Makefiles" && mingw32-make
+3. LibraryTool.exe
 
-You may optionally combine steps 2 & 3: "cmake && make && ./LibraryTool.exe"
+You may optionally combine steps 2 & 3: "cmake .. -G "MinGW Makefiles" && mingw32-make && LibraryTool.exe"
 ```
 
 ## Pointers
