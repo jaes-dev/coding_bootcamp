@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/LibraryTool.dir/src/main.cpp.o CMakeFiles/LibraryTool.dir/src/classes/book.cpp.o CMakeFiles/LibraryTool.dir/src/classes/user.cpp.o CMakeFiles/LibraryTool.dir/src/helpers/get_terminal_length_linux.cpp.o -o LibraryTool
