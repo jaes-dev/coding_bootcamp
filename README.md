@@ -1,4 +1,5 @@
-# learn_cpp
+# coding_bootcamp
+This is some attempt at a coding bootcamp. Enjoy
 
 ## library_basics
 This is a basic C++ project containing a few concepts. I've started it with the User class and the skeleton for the terminal application.
