@@ -1,0 +1,3 @@
+/home/jaes/Desktop/learn_cpp/library_basics/build/CMakeFiles/LibraryTool.dir
+/home/jaes/Desktop/learn_cpp/library_basics/build/CMakeFiles/edit_cache.dir
+/home/jaes/Desktop/learn_cpp/library_basics/build/CMakeFiles/rebuild_cache.dir
